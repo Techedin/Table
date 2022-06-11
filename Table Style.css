@@ -1,0 +1,16 @@
+body {
+  
+  background-image: linear-gradient(rgb(51, 29, 175), rgb(108, 9, 128));
+}
+  h1 {
+    color: rgb(225, 225, 235);
+  }
+  h2 {
+    color: red;
+  }
+ 
+ table, th, td {
+  border:1px solid black;
+  text-shadow: 1px 1px 1px black;
+  background: linear-gradient(to bottom, rgba(243, 239, 239, 0.1), rgba(117, 108, 108, 0.5));
+}
